@@ -1,6 +1,6 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "CupNation",
+  "description": "develepor:Sr.Admin",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
